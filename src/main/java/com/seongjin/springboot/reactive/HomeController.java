@@ -1,4 +1,4 @@
-package com.seongjin.hackingspringboot.reactive;
+package com.seongjin.springboot.reactive;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;

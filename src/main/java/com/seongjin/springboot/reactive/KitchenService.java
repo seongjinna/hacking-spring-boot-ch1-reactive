@@ -1,4 +1,4 @@
-package com.seongjin.hackingspringboot.reactive;
+package com.seongjin.springboot.reactive;
 
 import org.springframework.stereotype.Service;
 import reactor.core.publisher.Flux;

@@ -1,4 +1,4 @@
-package com.seongjin.hackingspringboot.reactive;
+package com.seongjin.springboot.reactive;
 
 class Dish {
 

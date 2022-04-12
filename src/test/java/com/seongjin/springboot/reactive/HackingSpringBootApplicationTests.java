@@ -1,4 +1,4 @@
-package com.seongjin.hackingspringboot.reactive;
+package com.seongjin.springboot.reactive;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
