@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.seongjin</groupId>
-    <artifactId>hacking-spring-boot-ch1-reactive</artifactId>
+    <artifactId>spring-boot-reactive-ch1</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>Spring Boot - Chapter 1 - Reactive Web</name>
     <description>Demo project for with Spring Boot</description>
@@ -49,6 +49,7 @@
             <plugin>
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
+                <version>2.4.2</version>
             </plugin>
         </plugins>
     </build>
